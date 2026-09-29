@@ -7,7 +7,7 @@ B-DOWNLOAD is a modern Windows media and playlist download manager with quality 
 
 ## Download for Windows
 
-[![Download B-DOWNLOAD](https://img.shields.io/badge/Download-B--DOWNLOAD%204.3.1-23795c?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Bassem707/B-DOWNLOAD-Releases/releases/download/v4.3.1/B-DOWNLOAD-Setup-4.3.1.exe)
+[![Download B-DOWNLOAD](https://img.shields.io/badge/Download-B--DOWNLOAD%204.3.2-23795c?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Bassem707/B-DOWNLOAD-Releases/releases/download/v4.3.2/B-DOWNLOAD-Setup-4.3.2.exe)
 
 You can also visit the [latest release page](https://github.com/Bassem707/B-DOWNLOAD-Releases/releases/latest) for release notes and checksums.
 
@@ -19,10 +19,10 @@ You can also visit the [latest release page](https://github.com/Bassem707/B-DOWN
 
 ## Integrity
 
-SHA-256 for `B-DOWNLOAD-Setup-4.3.1.exe`:
+SHA-256 for `B-DOWNLOAD-Setup-4.3.2.exe`:
 
 ```text
-A8E26977B869DE066BCE8D70A510183C9A9D785D45199CBAD0AAA45FE6947108
+9B33B67F4D24CCC9BB0682E17898EB4FA81A2192562B37EAECFEDD752A2B57F4
 ```
 
 Copyright © 2026 ELBASHMOHANDES. B-DOWNLOAD is part of the B-GATE ecosystem.
